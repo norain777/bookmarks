@@ -1,5 +1,5 @@
-import { Base } from '../templates/Base';
+import { BookmarkTemplate } from '../templates/BookmarkTemplate';
 
-const Index = () => <Base />;
+const Index = () => <BookmarkTemplate />;
 
 export default Index;
